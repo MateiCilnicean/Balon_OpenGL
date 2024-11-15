@@ -1,2 +1,2 @@
 # Balon_OpenGL
-Proiect laborator grafica
+Proiect laborator la materia Grafica asistata de calculator din anul 2
